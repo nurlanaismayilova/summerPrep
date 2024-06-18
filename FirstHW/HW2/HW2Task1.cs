@@ -1,4 +1,4 @@
-﻿//Task 1
+﻿/*//Task 1
 using System.Runtime.Intrinsics.X86;
 
 namespace hw2
@@ -25,3 +25,4 @@ namespace hw2
         }
     }
 }
+*/
